@@ -1,0 +1,16 @@
+gunicorn
+flask
+nest_asyncio
+flask-cors
+mammoth
+lxml
+pillow
+b2sdk
+pytz
+schedule
+feedparser
+numpy
+pandas
+requests
+sqlalchemy
+psycopg2-binary
